@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "serve": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "@owickstrom/the-monospace-web": "^0.1.5"
+  }
+}
